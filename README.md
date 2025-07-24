@@ -25,9 +25,9 @@ A portfolio of the data analyses I have done, sections are split into statistica
 **Link:**
 
 ### Fox Mulder is a Maniac, but how much so?
-**Summary:**
+**Summary:** A re-watch podcast re-examines the mental state of the main character in X-Files. Using their ratings and categorization, I get to the bottom of how much of menace Mulder is.
 
-**Link:**
+**Link:** [Jupyter Lab Notebook](FMIAM-analysis/FMIAM.ipynb)
 
 ## Design of Experiment with JMP
 
