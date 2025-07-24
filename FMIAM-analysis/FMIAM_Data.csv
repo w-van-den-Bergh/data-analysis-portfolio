@@ -1,0 +1,163 @@
+season,episode,adversary,rating,enabler type,enabler
+1,1,Mythology,3,Government Agency/Officials,FBI
+1,2,Mythology,4,Shadow Government,Deepthroat/Shadow Government
+1,3,Monster/Mutant,2,Scully,Scully
+1,4,Human,4,Government Agency/Officials,FBI
+1,5,Monster/Mutant,5,Scully,Scully
+1,6,Supernatural,3,Government Agency/Officials,CIA/NSA
+1,7,Human,5,Mulder,Jerry (Mulder's old partner) / Mulder
+1,8,Monster/Mutant,10,Mulder,Mulder / Hodge
+1,9,Supernatural,5,Government Agency/Officials,NASA
+1,10,Mythology,5,Shadow Government,Deepthroat
+1,11,Monster/Mutant,1,Shadow Government,Deepthroat
+1,12,Monster/Mutant,2,Person of Interest/Ally,Pheobe (Mulder's Ex)
+1,13,Human,1,Antagonist,Boggs (Serial Killer)
+1,14,Supernatural,3,Antagonist,The Cult
+1,15,Supernatural,4,Scully,Scully
+1,16,Human,6,Antagonist,Barnett (Criminal)
+1,17,Mythology,8,Shadow Government,Deepthroat
+1,18,Supernatural,4,Scully,Scully
+1,19,Monster/Mutant,3,Government Agency/Officials,Ish/Sheriff
+1,20,Monster/Mutant,6,Scully,Scully
+1,21,Monster/Mutant,4,Skinner,Skinner
+1,22,Supernatural,4,Government Agency/Officials,Lady Cop
+1,23,Supernatural,2,Antagonist,The Scientists/The Dick Ghost
+1,24,Mythology,4,Shadow Government,Deepthroat
+2,1,Mythology,5,Skinner,Skinner
+2,2,Monster/Mutant,4,Skinner,Skinner
+2,3,Human,4,Shadow Government,The Company/Shadow Government
+2,4,Human,5,Shadow Government,X/Chricheck
+2,5,Mythology,8,Shadow Government,Shadow Government
+2,6,Mythology,10,Skinner,Skinner
+2,7,Monster/Mutant,6,Mulder,Mulder's Dick (Cupid)
+2,8,Mythology,4,Skinner,Skinner
+2,9,Monster/Mutant,4,Mulder,Mulder
+2,10,Mythology,3,Person of Interest/Ally,Incidental Pedophile
+2,11,Human,5,Scully,Scully
+2,12,Human,3,Person of Interest/Ally,Psychic Woman
+2,13,Human,2,Government Agency/Officials,Agent Moe Boggs
+2,14,Supernatural,6,Cosmological Being,Satan
+2,15,Supernatural,2,Scully,Scully
+2,16,Mythology,4,Person of Interest/Ally,Little Clone Guys
+2,17,Mythology,6,Skinner,Skinner
+2,18,Mythology,4,Mulder,Mulder
+2,19,Supernatural,2,Scully,Scully
+2,20,Monster/Mutant,3,Mulder,Mulder
+2,21,Supernatural,3,Person of Interest/Ally,Chuck
+2,22,Human,2,Shadow Government,Smoking Man (Shadow Government)
+2,23,Supernatural,5,Scully,Scully
+2,24,Human,5,Antagonist,The Town/Cannibals
+2,25,Mythology,10,Shadow Government,Smoking Man (Shadow Government)
+3,1,Mythology,10,Person of Interest/Ally,Navajo Man/Scully/Skinner
+3,2,Mythology,7,Society,Everyone
+3,3,Monster/Mutant,3,Scully,Scully
+3,4,Human,6,Person of Interest/Ally,Peter Boyle
+3,5,Supernatural,4,Antagonist,Neech
+3,6,Monster/Mutant,1,Government Agency/Officials,Detective Cross
+3,7,Supernatural,6,Scully,Scully
+3,8,Human,3,Scully,Scully
+3,9,Mythology,9,Government Agency/Officials,Senator Madison
+3,10,Mythology,10,Government Agency/Officials,Conductor
+3,11,Supernatural,7,Cosmological Being,Jesus
+3,12,Supernatural,4,Government Agency/Officials,Sheriff
+3,13,Supernatural,7,Cosmological Being,Cosmos
+3,14,Human,9,Antagonist,Kurt Woodsmit
+3,15,Mythology,6,Society,Hong Kong
+3,16,Mythology,2,Skinner,Skinner
+3,17,Monster/Mutant,1,Antagonist,Pusher
+3,18,Supernatural,1,Scully,Scully
+3,19,Human,4,Mulder,Mulder
+3,20,Human,5,Mulder,Mulder
+3,21,Human,4,Scully,Scully
+3,22,Monster/Mutant,6,Scully,Scully
+3,23,Mythology,4,Shadow Government,X
+3,24,Mythology,3,Scully,Scully
+4,1,Mythology,9,Person of Interest/Ally,Jeremiah Smith
+4,2,Monster/Mutant,2,Scully,Scully
+4,3,Monster/Mutant,3,Scully,Scully
+4,4,Human,3,Scully,Scully
+4,5,Supernatural,8,Skinner,Skinner
+4,6,Supernatural,8,Scully,Scully
+4,7,Mythology,2,Shadow Government,Smoking Man (Shadow Government)
+4,8,Mythology,10,Skinner/Scully,Scully/Skinner
+4,9,Mythology,9,Government Agency/Officials,FBI
+4,10,Human,10,Scully,Scully
+4,11,Monster/Mutant,4,Person of Interest/Ally,Old Woman
+4,12,Monster/Mutant,3,Mulder,Mulder
+4,13,Human,N/A,N/A,N/A
+4,14,Mythology,4,Scully,Scully
+4,15,Supernatural,2,Government Agency/Officials,Whoever gave him the case
+4,16,Human,7,Mulder,Mulder
+4,17,Mythology,9,Mulder,Mulder
+4,18,Mythology,10,Mulder,Mulder
+4,19,Supernatural,6,Person of Interest/Ally,Time Traveler
+4,20,Monster/Mutant,3,Mulder,Mulder
+4,21,Mythology,2,Skinner,Skinner
+4,22,Supernatural,4,Society,Society
+4,23,Mythology,10,Government Agency/Officials,Doctors
+4,24,Mythology,3,Mulder,Mulder
+5,1,Mythology,9,Scully,Scully
+5,2,Mythology,4,Society,Skinner/Syndicate/Scully/FBI
+5,3,Human,2,N/A,Fear Gas
+5,4,Monster/Mutant,7,Mulder,Mulder
+5,5,Monster/Mutant,N/A,N/A,N/A
+5,6,Mythology,10,Mulder,Mulder
+5,7,Mythology,5,Skinner,Skinner
+5,8,Supernatural,5,Skinner,Skinner
+5,9,Supernatural,5,Scully,Scully
+5,10,Supernatural,3,Scully,Scully
+5,11,Human,7,Scully,Scully
+5,12,Monster/Mutant,7,Antagonist,Ronny
+5,13,Mythology,6,Scully,Scully
+5,14,Mythology,10,Society,Everyone
+5,15,Monster/Mutant,1,Person of Interest/Ally,Arthur Dales
+5,16,Supernatural,3,Government Agency/Officials,Cops
+5,17,Supernatural,3,Cosmological Being,Satan
+5,18,Human,10,Government Agency/Officials,FBI/CIA
+5,19,Monster/Mutant,10,Scully,Scully
+5,20,Mythology,8,Skinner,Skinner
+5.5,1,Mythology,3,Cosmological Being,God/Satan
+6,1,Mythology,8,Skinner,Skinner
+6,2,Human,2,Scully,Scully
+6,3,Supernatural,10,Skinner/Scully,Scully/Skinner
+6,4,Supernatural,7,Government Agency/Officials,Kirsch
+6,5,Supernatural,10,Government Agency/Officials,The Mole General
+6,6,Supernatural,6,Scully,Scully
+6,7,Supernatural,10,Mulder,Mulder
+6,8,Supernatural,4,Mulder,Mulder
+6,9,Mythology,4,Skinner,Skinner
+6,10,Supernatural,4,Government Agency/Officials,Kirsch
+6,11,Mythology,9,Skinner,Skinner
+6,12,Mythology,9,Society,Everyone
+6,13,Monster/Mutant,7,Person of Interest/Ally,Arthur Dales
+6,14,Supernatural,9,Cosmological Being,Cosmos
+6,15,Supernatural,5,Skinner,Skinner
+6,16,Supernatural,3,Person of Interest/Ally,Karen
+6,17,Supernatural,3,Government Agency/Officials,The guard at the beginning
+6,18,Supernatural,10,Mulder,Mulder
+6,19,Mythology,5,Mulder,David Ducovny
+6,20,Human,2,Scully,Scully
+6,21,Monster/Mutant,5,Antagonist,Mushroom Monster
+6,22,Mythology,10,Scully,Scully
+7,1,Mythology,10,Skinner,Skinner
+7,2,Mythology,6,Mulder,Mulder
+7,3,Monster/Mutant,6,Mulder,Mulder
+7,4,Supernatural,4,Skinner,Skinner
+7,5,Supernatural,2,Mulder,Mulder
+7,6,Supernatural,10,Cosmological Being,Cosmos
+7,7,Supernatural,10,Mulder,Mulder
+7,8,Human,10,Cosmological Being,Magic itself
+7,9,Supernatural,6,Cosmological Being,Satan
+7,10,Mythology,10,Skinner/Scully,Skinner/Scully
+7,11,Mythology,7,Skinner,Skinner
+7,12,Supernatural,9,Mulder,Mulder
+7,13,Human,10,Person of Interest/Ally,Lone Gunman
+7,14,Supernatural,3,Scully,Scully
+7,15,Mythology,3,Shadow Government,Smoking Man (Shadow Government)
+7,16,Monster/Mutant,4,Skinner,Skinner
+7,17,Supernatural,4,Cosmological Being,"Buddha, Cosmos"
+7,18,Monster/Mutant,2,Scully,Scully
+7,19,Monster/Mutant,4,Skinner,Skinner
+7,20,Supernatural,5,Scully,Scully
+7,21,Supernatural,10,Mulder,Mulder
+7,22,Mythology,10,Skinner,Skinner
