@@ -20,9 +20,9 @@ A portfolio of the data analyses I have done, sections are split into statistica
 **Link:**
 
 ### Meta-analysis of scientific literature to identify trends in Niobium as a dopant or coating
-**Summary:**
+**Summary:** Published work examining the use of elemental Niobium (Nb) and Nb-Oxides as a dopant or coating for active cathode materials
 
-**Link:**
+**Link:** [Link to Paper](https://pubs.rsc.org/en/content/articlelanding/2023/qi/d3qi01857a)
 
 ### Fox Mulder is a Maniac, but how much so?
 **Summary:** A re-watch podcast re-examines the mental state of the main character in X-Files. Using their ratings and categorization, I get to the bottom of how much of menace Mulder is.
@@ -32,9 +32,9 @@ A portfolio of the data analyses I have done, sections are split into statistica
 ## Design of Experiment with JMP
 
 ### Mixture Design of Molten Salt Synthesis for LiNiO2
-**Summary:**
+**Summary:** Published work centered around a mixture design for molten salts and molten salt synthesis of cathode active materials
 
-**Link:**
+**Link:** [Link to Paper](https://pubs.rsc.org/en/content/articlelanding/2024/ta/d3ta07840j)
 
 ### Fractional Factorial of electrode mechanical strength
 **Summary:**
