@@ -20,14 +20,14 @@ A portfolio of the data analyses I have done, sections are split into statistica
 **Link:** [Jupyter Lab Notebook](FMIAM-analysis/FMIAM.ipynb)
 
 ### Automated agglomeration size analysis of active material electrodes
-**Summary:**
+**Summary:** A tool used to do image particle size analysis and plotting from SEM data
 
-**Link:**
+**Link:**[Jupyter Lab Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/process_SEM_CS_DomainSize-VOLUME.ipynb)
 
 ### Elemental distribution to quantify active material electrode homogeneity
-**Summary:**
+**Summary:** A tool to measure the distribution of cross-sectional SEM-EDS data to determine if there is elemental non-uniformity across the material
 
-**Link:**
+**Link:**[Jupyter Lab Notebook](https://github.com/w-van-den-Bergh/programming-porfolio/blob/main/python-analysis-code/process_EDS_netcount_maps_distribution.ipynb)
 
 ### Meta-analysis of solid-state cells to compare performance trends of different formulations
 **Summary:** Details under NDA but the work can be described as follows: A new formulation was observed to have a higher failure rate during testing than more established recipes. I was tasked with determining whether, based on available data, whether there was significant different in failure rates between the formulations, whether the failures could be assigned to specific teams with insufficient training, or if there was a time element to the failures (seasonal). It was found that the new formulation did have a significantly higher failure rate than previous formulations. This was presented to management for executive action.
