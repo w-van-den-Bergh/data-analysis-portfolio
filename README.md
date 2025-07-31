@@ -32,7 +32,5 @@ A portfolio of the data analyses I have done, sections are split into statistica
 ### Meta-analysis of solid-state cells to compare performance trends of different formulations
 **Summary:** Details under NDA but the work can be described as follows: A new formulation was observed to have a higher failure rate during testing than more established recipes. I was tasked with determining whether, based on available data, whether there was significant different in failure rates between the formulations, whether the failures could be assigned to specific teams with insufficient training, or if there was a time element to the failures (seasonal). It was found that the new formulation did have a significantly higher failure rate than previous formulations. This was presented to management for executive action.
 
-**Link:**
-
 ### Fractional Factorial of electrode mechanical strength
 **Summary:** Details are under NDA but the work can be described as follows: The mechanical strength of a new formulation once prepared as a coating was extremely weak. I was tasked with adjusting process conditions and measuring the resulting peel strength of the material coatings. Factors included temperature, material loading (mg/cm2), coating speed, and material composition with a response being force needed for a 180 degree peel test. Using a fractional factorial design, key factors were screened and significant factrors were identified. This was presented to management for executive action.
